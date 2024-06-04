@@ -1,4 +1,4 @@
-# quare Calculator
+# Square Calculator
 
 A simple app for calculating the square of a number.
 
@@ -12,7 +12,7 @@ npm install square-calc
 
 ##  Usage
 
-Here's how you can use the esm-square-calculator module in your project:
+Here's how you can use the square-calc module in your project:
 
 ```javascript
 const { calculateSquare } = require('square-calc');
