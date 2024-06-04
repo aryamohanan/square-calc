@@ -1,6 +1,6 @@
 # ESM Square Calculator
 
-A simple ESM module for calculating the square of a number.
+A simple app for calculating the square of a number.
 
 ## Installation
 
