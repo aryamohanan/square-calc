@@ -7,7 +7,7 @@ A simple ESM module for calculating the square of a number.
 You can install the package using npm:
 
 ```bash
-npm install esm-square-calculator
+npm install square-calc
 ```
 
 ##  Usage
@@ -15,8 +15,8 @@ npm install esm-square-calculator
 Here's how you can use the esm-square-calculator module in your project:
 
 ```javascript
-import { calculateSquare } from 'esm-square-calculator';
+const { calculateSquare } = require('square-calc');
 
-const squaredNumber = calculateSquare(5);
-console.log(squaredNumber); // Output: 25
+const number = 5;
+console.log(`The square of ${number} is ${calculateSquare(number)}`);
 ```

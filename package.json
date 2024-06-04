@@ -1,9 +1,8 @@
 {
-  "name": "esm-square-calculator",
-  "version": "1.1.0",
-  "description": "A simple ESM module for calculating the square of a number",
-  "main": "index.mjs",
-  "type": "module",
+  "name": "square-calc",
+  "version": "2.0.0",
+  "description": "A simple module for calculating the square of a number",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
