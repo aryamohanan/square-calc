@@ -1,4 +1,4 @@
-# ESM Square Calculator
+# quare Calculator
 
 A simple app for calculating the square of a number.
 
