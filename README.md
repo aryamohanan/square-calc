@@ -14,7 +14,7 @@ npm install square-calc
 
 Here's how you can use the square-calc module in your project:
 
-### CJS
+### CJS Application
 
 ```javascript
 const calculateSquare = require('square-calc');
@@ -23,7 +23,7 @@ const number = 5;
 console.log(`The square of ${number} is ${calculateSquare(number)}`);
 ```
 
-### ESM
+### ESM Application
 
 ```javascript
 import calculateSquare from 'esm-square-calculator';

@@ -1,9 +1,9 @@
 {
   "name": "square-calc",
-  "version": "2.2.3",
+  "version": "3.1.0",
   "description": "A simple module for calculating the square of a number",
-  "main": "index.js",
-  "type": "commonjs",
+  "main": "index.mjs",
+  "type": "module",
   "scripts": {
     "test": "mocha"
   },
