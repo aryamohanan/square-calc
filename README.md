@@ -1,20 +1,20 @@
 # Square Calculator
 
-A simple app for calculating the square of a number.
+A simple application for calculating the square of a number.
 
 ## Installation
 
-You can install the package using npm:
+Install the package using npm:
 
 ```bash
 npm install square-calc
 ```
 
-##  Usage
+## Usage
 
-Here's how you can use the square-calc module in your project:
+Here's how you can use the `square-calc` module in your project:
 
-### CJS (square-calc v2 is cjs)
+### CommonJS (square-calc v2 uses CommonJS)
 
 ```javascript
 const calculateSquare = require('square-calc');
@@ -23,11 +23,11 @@ const number = 5;
 console.log(`The square of ${number} is ${calculateSquare(number)}`);
 ```
 
-### ESM (square-calc v3 is pure esm)
+### ES Module (square-calc v3 uses ES Module)
 
 ```javascript
 import calculateSquare from 'square-calc';
 
-const squaredNumber = calculateSquare(5);
-console.log(squaredNumber); // Output: 25
+const number = 5;
+console.log(`The square of ${number} is ${calculateSquare(number)}`);
 ```

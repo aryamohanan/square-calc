@@ -1,6 +1,6 @@
 {
   "name": "square-calc",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "A simple module for calculating the square of a number",
   "main": "index.mjs",
   "type": "module",
@@ -12,6 +12,12 @@
     "url": "https://github.com/aryamohanan/square-calc.git"
   },
   "homepage": "https://github.com/aryamohanan/square-calc",
+  "keywords": [
+    "native esm",
+    "square",
+    "esm",
+    "cjs"
+  ],
   "author": "Arya Mohanan",
   "license": "MIT",
   "devDependencies": {
