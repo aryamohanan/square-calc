@@ -1,12 +1,17 @@
 {
   "name": "square-calc",
-  "version": "3.1.0",
+  "version": "2.3.0",
   "description": "A simple module for calculating the square of a number",
   "main": "index.mjs",
   "type": "module",
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aryamohanan/square-calc.git"
+  },
+  "homepage": "https://github.com/aryamohanan/square-calc",
   "author": "Arya Mohanan",
   "license": "MIT",
   "devDependencies": {
