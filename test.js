@@ -1,5 +1,5 @@
-import { expect } from 'chai';
-import calculateSquare from './index.mjs';
+const calculateSquare = require('./index.js');
+const { expect } = require('chai');
 
 describe('calculateSquare', () => {
   it('should return the square of a given number', () => {
