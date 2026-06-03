@@ -3,3 +3,4 @@ const calculateSquare = (number) => {
 };
 
 export default calculateSquare;
+export { calculateSquare as 'module.exports' }; 
